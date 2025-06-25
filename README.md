@@ -1,4 +1,6 @@
-## Hi  I'm Ramde Solanki (Senio Frontend Developer) 👋
+## Hi 👋 I'm Ramde Solanki (Senio Frontend Developer) 
+
+Front-end Developer with 10+ years of experience in building scalable, high-performance web applications. Skilled in React.js, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, and Magento. Strong focus on responsive web design, user interface development, and cross-browser compatibility. Proven ability to reduce load times, improve Lighthouse scores, and deliver optimized, maintainable codebases in Agile environments. Adept at modern frontend practices, reusable component architecture, and UI/UX best practices.
 
 <!--
 **ramdesolanki2511/ramdesolanki2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
