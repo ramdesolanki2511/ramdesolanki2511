@@ -1,10 +1,10 @@
-## Hi 👋 I'm Ramde Solanki (Senio Frontend Developer) 
+## Hi 👋 I'm Ramde Solanki (Full-Stack Developer) 
 
 Front-end Developer with 10+ years of experience in building scalable, high-performance web applications. Skilled in React.js, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, and Magento. Strong focus on responsive web design, user interface development, and cross-browser compatibility. Proven ability to reduce load times, improve Lighthouse scores, and deliver optimized, maintainable codebases in Agile environments. Adept at modern frontend practices, reusable component architecture, and UI/UX best practices.
 
 ## 👨‍🏫 Work History
 
-**Senior Front-end Developer @ Freelancer – (Apr 2024 – Present)**	
+**Full Stack Developer @ Freelancer – (Apr 2024 – Present)**	
 <ul>
   <li>Delivered 3+ web applications using React.js, Tailwind CSS, and JavaScript, improving page speed by 35%.</li>
   <li>Integrated REST APIs using Axios and implemented dynamic rendering with React.js for SEO benefits.</li>
