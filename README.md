@@ -56,7 +56,7 @@ If you're a **founder, agency, or product team** looking to ship fast, here's wh
 - ⚙️ **Performance & refactoring** — Core Web Vitals, SSR/ISR, bundle optimization, legacy React upgrades
 - 🔁 **AI-assisted team enablement** — setting up Cursor, Copilot, and LLM workflows for dev teams
 
-📩 **Let's talk** → [ramdesolanki2511@gmail.com](mailto:ramdesolanki2511@gmail.com) &nbsp;|&nbsp; 🗓️ **Book a slot** → 💬 **DM me** → [LinkedIn](https://www.linkedin.com/in/ramde-solanki/)
+📩 **Let's talk** → [ramdesolanki2511@gmail.com](mailto:ramdesolanki2511@gmail.com) &nbsp;|&nbsp; → 💬 **DM me** → [LinkedIn](https://www.linkedin.com/in/ramde-solanki/)
 
 ---
 
@@ -105,20 +105,6 @@ If you're a **founder, agency, or product team** looking to ship fast, here's wh
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux,firebase,gcp,vercel,netlify,jenkins,figma" alt="Tools" />
 </p>
-
----
-
-### 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-</p>
-
----
 
 ### 💬 Hire Me
 
