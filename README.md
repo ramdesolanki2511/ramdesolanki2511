@@ -1,80 +1,151 @@
-## Hi 👋 I'm Ramde Solanki (Full-Stack Developer) 
-
-Front-end Developer with 10+ years of experience in building scalable, high-performance web applications. Skilled in React.js, HTML5, CSS3, JavaScript, Tailwind CSS, WordPress, and Magento. Strong focus on responsive web design, user interface development, and cross-browser compatibility. Proven ability to reduce load times, improve Lighthouse scores, and deliver optimized, maintainable codebases in Agile environments. Adept at modern frontend practices, reusable component architecture, and UI/UX best practices.
-
-## 👨‍🏫 Work History
-
-**Full Stack Developer @ Freelancer – (Apr 2024 – Present)**	
-<ul>
-  <li>Delivered 3+ web applications using React.js, Tailwind CSS, and JavaScript, improving page speed by 35%.</li>
-  <li>Integrated REST APIs using Axios and implemented dynamic rendering with React.js for SEO benefits.</li>
-  <li>Created design prototypes using Figma, reducing client revisions by 40%.</li>
-  <li>Achieved Lighthouse performance scores of 88+ for SEO and speed.</li>
-  <li>Created reusable UI components and built design systems in collaboration with designers using Figma.</li>
-  <li>Performed code reviews and setup basic CI workflows using GitHub Actions for automated linting and build checks.</li>
-</ul>
-
-**Senior Front-end Developer @ Nolte FZE – Dubai (Jun 2023 – Mar 2024)**
-<ul>
-  <li>Developed user authentication login/signup/reset-password with JWT-based session handling.</li>
-  <li>Developed over 8 interactive modules, including Inventory, Order Management, Sales Reporting, and Permissions, using React, AG Grid, and Material UI.</li>
-  <li>Product Listing & Detail Pages Implemented lazy loading, dynamic routing, and SEO-friendly meta tags using React.js.</li>
-  <li>Set up a web performance optimization review routine using React Profiler, Lighthouse, and Chrome DevTools, reducing main thread blocking time by ~60%.</li>
-  <li>Reviewed code from team members, onboarded 2 junior developers, and shared frontend best practices during weekly syncs.</li>
-  <li>Enhanced page speed by 35%, improving client engagement and conversions.</li>
-  <li>Reduced bugs in production by 60% via component-level testing and real-time logging.</li>
-</ul>
-
-**Senior Front-end Developer @ Commerce Pundit (Apr 2015 – May 2023)**
-<ul>
-  <li>Migrated 15+ Magento 1 stores to Magento 2 and implemented mobile-first responsive designs.</li>
-  <li>Developed reusable React components for product listing, filtering, and custom checkout experiences.</li>
-  <li>Applied frontend performance techniques (minification, critical CSS, lazy load, async JS), improving Google PageSpeed scores from ~55 to 90+.</li>
-  <li>Spearheaded frontend architecture decisions and mentored 4 junior developers over 3 years.</li>
-  <li>Regularly reviewed code, estimated sprints, and coordinated with designers and QA for smooth project delivery.</li>
-  <li>Reduced frontend defects to under 2% across releases with structured QA and browser testing.</li>
-  <li>Handled 15+ ecommerce stores, improving client conversions by 20–30% through UI/UX enhancements.</li>
-</ul>
-
-**Web Designer @ Rlogical Techsoft (Nov 2010 – Apr 2015)**
-<ul>
-  <li>Designed UI/UX for 30+ websites using WordPress, Photoshop, HTML, and CSS.</li>
-  <li>Used Bootstrap and jQuery to build landing pages, forms, and promotional UIs that matched visual specs.</li>
-  <li>Applied image optimization, code minification, and lazy loading to improve site performance by 30–40%.</li>
-  <li>Worked directly with project managers and clients to iterate designs based on feedback and usability testing.</li>
-</ul>
-
-## ⭐ Skill
-<ul>
-  <li>**Languages**: HTML, CSS3, JavaScript (ES6+)</li>
-  <li>**Frameworks/Libraries**: React.js, AG Grid</li>
-  <li>**State Management**: Context API</li>
-  <li>**CMS Frameworks**: WordPress, WooCommerce</li>
-  <li>**E-commerce CMS**: Magento</li>
-  <li>**Styling**: CSS-in-JS, SASS/SCSS, Tailwind CSS, Bootstrap, Material UI</li>
-  <li>**Tools**: Webpack, Vite, npm/yarn, Git, Docker</li>
-  <li>**APIs**: RESTful APIs, GraphQL, Axios, Fetch</li>
-  <li>**Other**: Agile/Scrum, CI/CD, Figma, Adobe XD, Web Accessibility (WCAG)</li>
-</ul> 
-
-## 🏆 Certifications
-<ul>
-  <li>Certified Expert-Adobe Commerce Front-end Developer	Aug 2019</li>
-  <li>Certified Magento/Adobe Front-end Developer	Aug 2017</li>
-  <li>PGDM (Postgraduate Diploma in Multimedia)</li>
-</ul>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3229BD&center=true&vCenter=true&width=650&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Ramde+Solanki;AI-first+Frontend+Engineer+%F0%9F%A4%96;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+LLM-powered+Web+Apps+%E2%9C%A8;Available+for+Freelance+Work+%F0%9F%92%BC" alt="Typing SVG" />
+  </a>
+</h1>
 
 <!--
-**ramdesolanki2511/ramdesolanki2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  SEO / discoverability keywords (kept in real text so crawlers and GitHub search can index them):
+  Ramde Solanki, AI-first frontend engineer, freelance frontend developer India,
+  React developer, Next.js developer, TypeScript, LLM integration,
+  OpenAI, Anthropic Claude, Vercel AI SDK, LangChain, RAG, AI agents,
+  freelance web developer, hire react developer, remote developer India.
 -->
+
+## Ramde Solanki — AI-first Frontend Engineer (React · Next.js · TypeScript)
+
+I'm an **AI-first Frontend Engineer** based in **India 🇮🇳** with 8+ years of experience shipping production-grade web apps in **React, Next.js, and TypeScript**. I specialize in building **LLM-powered products**, chatbots, AI agents, and AI-assisted SaaS dashboards and I use AI tooling (Cursor, Claude, ChatGPT, Copilot) deeply in my day-to-day workflow to ship faster without sacrificing quality.
+
+> 💼 **Open to freelance & contract work — React / Next.js / AI integrations.** &nbsp; 📬 Reach out at **[ramdesolanki2511@gmail.com](mailto:ramdesolanki2511@gmail.com)**.
+
+<p align="center">
+  <a href="mailto:ramdesolanki2511@gmail.com">
+    <img src="https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for Freelance" />
+  </a>
+  <a href="mailto:ramdesolanki2511@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Contract%20Work-blue?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Open to Contract Work" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&animation=twinkling" alt="banner" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🤖 **AI-first Frontend Engineer** — I build LLM-powered products and integrate OpenAI, Claude, and open-source models into real apps
+- ⚛️ **Frontend specialist** — React, Next.js, TypeScript, TailwindCSS, with solid Node.js on the backend
+- 🧩 **Full delivery** — from product discovery and UI/UX to shipping, monitoring, and iteration
+- 🌍 **Remote-friendly** — working with startups and teams across the US, EU, UK, Jordan, South Korea, India and across the Globe.
+- 📫 Email: **ramdesolanki2511@gmail.com**
+- ⚡ Fun fact: **I use tabs over spaces**
+
+---
+
+### 💼 Freelance Services — What I Can Build for You
+
+If you're a **founder, agency, or product team** looking to ship fast, here's where I can help:
+
+- 🚀 **AI-powered web apps** — chatbots, RAG over your docs/data, AI agents, copilots, semantic search
+- 🧱 **Next.js / React products** — marketing sites, SaaS dashboards, admin panels, customer portals
+- 🔌 **LLM integrations** — OpenAI, Anthropic Claude, Vercel AI SDK, LangChain, pgvector, streaming UIs
+- 🎨 **UI/UX implementation** — pixel-perfect Figma → production, design systems, accessibility
+- ⚙️ **Performance & refactoring** — Core Web Vitals, SSR/ISR, bundle optimization, legacy React upgrades
+- 🔁 **AI-assisted team enablement** — setting up Cursor, Copilot, and LLM workflows for dev teams
+
+📩 **Let's talk** → [ramdesolanki2511@gmail.com](mailto:ramdesolanki2511@gmail.com) &nbsp;|&nbsp; 🗓️ **Book a slot** → 💬 **DM me** → [LinkedIn](https://www.linkedin.com/in/ramde-solanki/)
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramde-solanki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ramdesolanki2511/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ramdesolanki2511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🤖 AI & LLM Tooling
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=openai,anthropic,huggingface,pytorch,tensorflow,langchain,vercel,supabase,postgres" alt="AI / LLM Stack" />
+</p>
+
+<p align="center">
+  <strong>OpenAI · Anthropic Claude · Vercel AI SDK · Cursor · GitHub Copilot</strong>
+</p>
+
+### 🛠️ Languages & Tools
+
+**Languages**
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,bash,py" alt="Languages" />
+</p>
+
+**Frameworks & Libraries**
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,redux,electron,tailwind,bootstrap,materialui,styledcomponents" alt="Frameworks" />
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,linux,firebase,gcp,vercel,netlify,jenkins,figma" alt="Tools" />
+</p>
+
+---
+
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/ramdesolanki2511/ramdesolanki2511/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</p>
+
+---
+
+### 💬 Hire Me
+
+<p align="center">
+  <strong>Looking for a reliable AI-first frontend engineer for your next project?</strong>
+</p>
+
+<p align="center">
+  I'm available for <strong>freelance, contract, and part-time</strong> engagements. <br/>
+  Whether it's a <em>Next.js MVP</em>, an <em>LLM-powered feature</em>, or an <em>end-to-end product build</em>, let's ship it.
+</p>
+
+<p align="center">
+  <a href="mailto:ramdesolanki2511@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/ramde-solanki/">
+    <img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message on LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/ramdesolanki2511/">Ramde Solanki</a> — AI-first Frontend Engineer · Freelance React & Next.js Developer · India 🇮🇳
+</p>
